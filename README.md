@@ -1,3 +1,3 @@
 # Constitution-Suisse
 
-Here is the Swiss Constitution in french in its latest version.
+Here is the Pacte of 1291.
