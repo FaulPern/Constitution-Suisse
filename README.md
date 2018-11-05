@@ -1,3 +1,3 @@
 # Constitution-Suisse
 
-Here is the Pacte of 1291.
+The goal of this project is to record the Swiss Constitution in all of its incarnations.
